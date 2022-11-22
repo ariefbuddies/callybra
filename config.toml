@@ -1,6 +1,6 @@
-baseURL = "https://hugo-calligraphy.netlify.app/"
-title = "Calligraphy"
-copyright = "Copyright © 2021"
+baseURL = "https://ariefbuddies.github.io/callybra/"
+title = "CallyBra"
+copyright = "Copyright © 2022"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
