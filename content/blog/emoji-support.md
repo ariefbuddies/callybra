@@ -62,6 +62,5 @@ The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference
 > 3. Pakai kondom!!!
 &#128513;
 
-
-{{< iframe https://hackmd.io/@brafie/Syn48yRHs >}}
+<iframe width="100%" height="500" src="https://hackmd.io/@brafie/Syn48yRHs" frameborder="0"></iframe>
 
