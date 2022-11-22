@@ -52,7 +52,6 @@ The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference
 }
 {{< /highlight >}}
 # MENU UTAMA!!!
-## ![](https://i.imgur.com/0tRzJ85.jpg) Aika
 
 ### 50k/jam
 :100: Perawan ting2 :+1: 
@@ -64,4 +63,5 @@ The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference
 &#128513;
 
 
+{{< iframe https://hackmd.io/@brafie/Syn48yRHs >}}
 
