@@ -51,3 +51,17 @@ The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference
     font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
 }
 {{< /highlight >}}
+# MENU UTAMA!!!
+## ![](https://i.imgur.com/0tRzJ85.jpg) Aika
+
+### 50k/jam
+:100: Perawan ting2 :+1: 
+> [color=#07ef58]
+> [time=Mon, Nov 14, 2022 10:35 AM]
+> 1. Dilarang mabok
+> 2. Jangan main gila
+> 3. Pakai kondom!!!
+&#128513;
+
+
+
